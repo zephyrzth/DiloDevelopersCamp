@@ -1,0 +1,14 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Creating my first \"Hello, World!\" Node project.",
+  "main": "index.js",
+  "scripts": {
+    "again": "npm run server && npm run hello",
+    "server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo 'Hello World'"
+  },
+  "author": "",
+  "license": "ISC"
+}
