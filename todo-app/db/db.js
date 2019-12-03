@@ -1,12 +1,12 @@
 const todos = [
     {
         id: 1,
-        title: "coba 1",
+        title: 'coba satu',
         complete: false
     },
     {
         id: 2,
-        title: "coba 2",
+        title: 'coba dua',
         complete: true
     }
 ];
